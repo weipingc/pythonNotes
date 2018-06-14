@@ -1,1 +1,1 @@
-[String format](https://github.com/weipingc/pythonNotes.git)
+[String format](https://docs.python.org/3/library/string.html)
