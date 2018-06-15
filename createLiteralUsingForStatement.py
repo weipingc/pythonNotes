@@ -1,6 +1,6 @@
 na = [0, 1, 2, 3, 4, 5]
 na1 = [i+1 for i in na]
-print(f'na1={na1}')
+print(f'na1={na1}')  # Use Python 3.6 new formatted string literals
 # na1=[1, 2, 3, 4, 5, 6]
 m1 = {'a':1, 'b':2}
 m2 = {k:v for k,v in m1.items()}
