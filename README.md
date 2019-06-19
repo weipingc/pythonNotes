@@ -3,4 +3,4 @@
 1. [Python Packaging/Distribution](https://packaging.python.org/tutorials/installing-packages/)
 
 Dependency management
-# https://hynek.me/articles/python-app-deps-2018/
+* https://hynek.me/articles/python-app-deps-2018/
